@@ -9,4 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="colorPrimary">#FF6200EE</color>
     <color name="colorPrimaryDark">#FF6200EE</color>
+
+
+    <color name="background_color">#fff5f5f5</color>
+    <color name="transparent_grey">#80444444</color>
 </resources>

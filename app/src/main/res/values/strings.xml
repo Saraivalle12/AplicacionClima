@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppClima</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">a6a800c020db4ae2ae6bcbd54f498235</string>
 </resources>

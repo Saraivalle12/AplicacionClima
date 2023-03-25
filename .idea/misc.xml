@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AppClima/app/src/main/res/drawable/button_bg.xml" value="0.1" />
+        <entry key="..\:/AppClima/app/src/main/res/drawable/ic_baseline_list_alt_24.xml" value="0.1" />
+        <entry key="..\:/AppClima/app/src/main/res/layout/activity_list_historico.xml" value="0.29914529914529914" />
         <entry key="..\:/AppClima/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AppClima/app/src/main/res/layout/cliente_list_layout.xml" value="0.33" />
       </map>
     </option>
   </component>

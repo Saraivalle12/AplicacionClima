@@ -14,5 +14,11 @@
         android:title="Refresh"
         app:showAsAction="ifRoom" />
 
+    <item
+        android:id="@+id/historial"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="Historial"
+        app:showAsAction="ifRoom" />
+
 
 </menu>
